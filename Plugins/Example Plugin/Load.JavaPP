@@ -1,4 +1,4 @@
-		//Create Jframe Variable
+    //Create Jframe Variable
     frame.setResizable(true);
     
     //Create MenuBar Item
