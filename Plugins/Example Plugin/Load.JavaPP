@@ -9,5 +9,5 @@
     panel.setLayout(null); //Set JPanel Layout
     
     //Create Object
-		JMenuBar MenuBar = new JMenuBar(); //Create an JMenuBar object
-		frame.setJMenuBar(MenuBar); //Set JMenuBar on JFrame
+    JMenuBar MenuBar = new JMenuBar(); //Create an JMenuBar object
+    frame.setJMenuBar(MenuBar); //Set JMenuBar on JFrame
