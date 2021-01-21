@@ -3,7 +3,7 @@
     
     //Create MenuBar Item
     JMenu FileMenu = new JMenu("File"); //Create JMenu object
-		MenuBar.add(FileMenu); //Add JMenu to JMenuBar
+    MenuBar.add(FileMenu); //Add JMenu to JMenuBar
     
     //Create JPanel Variable
     panel.setLayout(null); //Set JPanel Layout
