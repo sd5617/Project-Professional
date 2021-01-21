@@ -1,0 +1,13 @@
+		//Create Jframe Variable
+    frame.setResizable(true);
+    
+    //Create MenuBar Item
+    JMenu FileMenu = new JMenu("File"); //Create JMenu object
+		MenuBar.add(FileMenu); //Add JMenu to JMenuBar
+    
+    //Create JPanel Variable
+    panel.setLayout(null); //Set JPanel Layout
+    
+    //Create Object
+		JMenuBar MenuBar = new JMenuBar(); //Create an JMenuBar object
+		frame.setJMenuBar(MenuBar); //Set JMenuBar on JFrame
