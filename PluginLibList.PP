@@ -15,5 +15,5 @@ Verified //Verification
 This is a cool plugin that does stuff! //Description
 www.MyDownloadWebsite.com //Download
 www.MyIconWebsite.com //Icon
-null
+
 ---END---
