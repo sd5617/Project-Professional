@@ -15,3 +15,4 @@ Verified
 This is a cool plugin that does stuff!
 www.MyDownloadWebsite.com
 www.MyIconWebsite.com
+END
